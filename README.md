@@ -192,7 +192,7 @@ Minimal, premium site showcasing real shipped work with restrained aesthetic. No
 
 **📈 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&count_private=true&theme=dark&bg_color=1A1A2E&title_color=00D9FF&text_color=E0E0E0&icon_color=00D9FF&border_color=00D9FF&border_radius=10&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
 
 <br/><br/>
 
@@ -204,7 +204,7 @@ Minimal, premium site showcasing real shipped work with restrained aesthetic. No
 
 **💻 Language Proficiency**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=dark&bg_color=1A1A2E&title_color=00D9FF&text_color=E0E0E0&border_color=00D9FF&border_radius=10&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

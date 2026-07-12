@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0C,100:131715&height=200&section=header&text=Neha%20Fiaz&fontSize=52&fontColor=F5F5F4&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20AI%20%26%20Full%20Stack&descAlignY=58&descSize=18&descColor=A6A6A6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0C,100:131715&height=200&section=header&text=Neha%20Fiaz&fontSize=52&fontColor=F5F5F4&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%2FML" />
 
 <br/>
 
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-8FAF9A?style=for-the-badge&logo=vercel&logoColor=0B0D0C" /></a>
+<a href="https://nehafiaz.com"><img src="https://img.shields.io/badge/Portfolio-8FAF9A?style=for-the-badge&logo=vercel&logoColor=0B0D0C" /></a>
 <a href="https://linkedin.com/in/neha-fiaz"><img src="https://img.shields.io/badge/LinkedIn-8FAF9A?style=for-the-badge&logo=linkedin&logoColor=0B0D0C" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-8FAF9A?style=for-the-badge&logo=gmail&logoColor=0B0D0C" /></a>
-<a href="https://your-resume-url.com"><img src="https://img.shields.io/badge/Resume-8FAF9A?style=for-the-badge&logo=readdotcv&logoColor=0B0D0C" /></a>
+<a href="mailto:hello@nehafiaz.com"><img src="https://img.shields.io/badge/Email-8FAF9A?style=for-the-badge&logo=gmail&logoColor=0B0D0C" /></a>
+<a href="https://nehafiaz.com/resume"><img src="https://img.shields.io/badge/Resume-8FAF9A?style=for-the-badge&logo=readdotcv&logoColor=0B0D0C" /></a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A6A6A6&background=0B0D0C00&center=true&vCenter=true&width=560&lines=Building+AI-powered+products+that+solve+real+problems;Final-year+CS+student+%E2%80%94+GC+University+Faisalabad;Shipping+ML%2C+Full+Stack+%26+Mobile+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A6A6A6&background=0B0D0C00&center=true&vCenter=true&width=560&lines=Building+AI-powered+products+that+solve+real+problems;Full-stack+engineer+%7C+CS+student;Shipping+code+people+actually+use" />
 </a>
 
 </div>
@@ -23,7 +23,7 @@
 
 I'm a final-year Computer Science student at GC University Faisalabad, graduating in 2026, focused on software engineering, full-stack development, and applied machine learning.
 
-I don't just study systems — I ship them. My work spans training and deploying an ML model to production, building optimistic-update architectures for real-time apps, and designing mobile apps with proper auth and data layers from day one. I care as much about how a product *feels* as how it performs, which is why design quality and engineering rigor both show up in everything I build.
+I don't just study systems — I ship them. My work spans training and deploying an ML model to production, building optimistic-update architectures for real-time apps, and designing mobile apps with secure backends and clean UX.
 
 Currently preparing to graduate and looking for SWE, full-stack, and AI/ML roles where I can keep building things people actually use.
 
@@ -160,15 +160,13 @@ A minimal, motion-forward personal site.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=0B0D0C&title_color=8FAF9A&icon_color=8FAF9A&text_color=A6A6A6&border_color=131715&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&background=0B0D0C&stroke=131715&ring=8FAF9A&fire=8FAF9A&currStreakLabel=8FAF9A&sideLabels=A6A6A6&dates=A6A6A6&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&theme=dark&bg_color=0B0D0C&title_color=8FAF9A&icon_color=8FAF9A&text_color=A6A6A6&border_color=131715&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehafiaz&theme=dark&background=0B0D0C&stroke=131715&ring=8FAF9A&fire=8FAF9A&currStreakLabel=8FAF9A&sideLabels=A6A6A6&dates=A6A6A6&hide_border=false" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=0B0D0C&title_color=8FAF9A&text_color=A6A6A6&border_color=131715&hide_border=false" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0B0D0C&color=A6A6A6&line=8FAF9A&point=F5F5F4&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=dark&bg_color=0B0D0C&title_color=8FAF9A&text_color=A6A6A6&border_color=131715&hide_border=false" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehafiaz&theme=react-dark&bg_color=0B0D0C&color=A6A6A6&line=8FAF9A&point=F5F5F4&hide_border=true" width="49%" />
 
 </div>
-
-> Replace `your-username` above with your GitHub handle to activate these widgets.
 
 <br/>
 
@@ -193,7 +191,7 @@ A minimal, motion-forward personal site.
 
 ## Open Source
 
-Currently contributing to my own projects in the open, sharing build logs and technical breakdowns rather than polished-only results. Open to collaborating on ML tooling and developer-experience projects — feel free to reach out.
+Currently contributing to my own projects in the open, sharing build logs and technical breakdowns rather than polished-only results. Open to collaborating on ML tooling and developer-experience projects.
 
 <br/>
 
@@ -209,9 +207,9 @@ Currently contributing to my own projects in the open, sharing build logs and te
 
 <div align="center">
 
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-131715?style=for-the-badge&logoColor=8FAF9A" /></a>
+<a href="https://nehafiaz.com"><img src="https://img.shields.io/badge/Portfolio-131715?style=for-the-badge&logoColor=8FAF9A" /></a>
 <a href="https://linkedin.com/in/neha-fiaz"><img src="https://img.shields.io/badge/LinkedIn-131715?style=for-the-badge&logo=linkedin&logoColor=8FAF9A" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-131715?style=for-the-badge&logo=gmail&logoColor=8FAF9A" /></a>
+<a href="mailto:hello@nehafiaz.com"><img src="https://img.shields.io/badge/Email-131715?style=for-the-badge&logo=gmail&logoColor=8FAF9A" /></a>
 <a href="https://instagram.com/nyha.dev"><img src="https://img.shields.io/badge/Instagram-131715?style=for-the-badge&logo=instagram&logoColor=8FAF9A" /></a>
 
 </div>

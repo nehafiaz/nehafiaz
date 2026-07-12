@@ -12,7 +12,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A6A6A6&background=0B0D0C00&center=true&vCenter=true&width=560&lines=Building+AI-powered+products+that+solve+real+problems;Full-stack+engineer+%7C+CS+student;Shipping+code+people+actually+use" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A6A6A6&background=0B0D0C00&center=true&vCenter=true&width=680&lines=Building+AI-powered+products+that+solve+real+problems;Full-stack+engineer+%7C+CS+student;Shipping+code+people+actually+use" />
 </a>
 
 </div>

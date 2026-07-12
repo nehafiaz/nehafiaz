@@ -188,33 +188,23 @@ Minimal, premium site showcasing real shipped work with restrained aesthetic. No
 
 #### Code Activity & Performance
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 32px auto; max-width: 1000px;">
-
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.15) 0%, rgba(0, 217, 255, 0.08) 100%); border: 1px solid rgba(0, 217, 255, 0.3); border-radius: 12px; padding: 20px; text-align: center; backdrop-filter: blur(10px);">
+<br/>
 
 **📈 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&theme=dark&bg_color=1A1A2E&title_color=00D9FF&icon_color=00D9FF&text_color=E0E0E0&border_color=00D9FF&border_radius=10)
+<img src="https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&theme=tokyonight&bg_color=1A1A2E&title_color=00D9FF&icon_color=00D9FF&text_color=E0E0E0&border_color=00D9FF&border_radius=10" width="100%" alt="GitHub Stats" />
 
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.15) 0%, rgba(0, 217, 255, 0.08) 100%); border: 1px solid rgba(0, 217, 255, 0.3); border-radius: 12px; padding: 20px; text-align: center; backdrop-filter: blur(10px);">
+<br/><br/>
 
 **🔥 Contribution Streak**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehafiaz&theme=dark&background=1A1A2E&stroke=00D9FF&ring=00D9FF&fire=00D9FF&sideLabels=E0E0E0&dates=E0E0E0&border_radius=10)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehafiaz&theme=dark&background=1A1A2E&stroke=00D9FF&ring=00D9FF&fire=00D9FF&sideLabels=E0E0E0&dates=E0E0E0&border_radius=10" width="100%" alt="GitHub Streak" />
 
-</div>
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.15) 0%, rgba(0, 217, 255, 0.08) 100%); border: 1px solid rgba(0, 217, 255, 0.3); border-radius: 12px; padding: 24px; margin: 16px auto; max-width: 600px; backdrop-filter: blur(10px);">
+<br/><br/>
 
 **💻 Language Proficiency**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=dark&bg_color=1A1A2E&title_color=00D9FF&text_color=E0E0E0&border_color=00D9FF&border_radius=10)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=tokyonight&bg_color=1A1A2E&title_color=00D9FF&text_color=E0E0E0&border_color=00D9FF&border_radius=10" width="100%" alt="Top Languages" />
 
 </div>
 

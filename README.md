@@ -182,15 +182,39 @@ Minimal, premium site showcasing real shipped work with restrained aesthetic. No
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="margin: 48px 0;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&theme=tokyonight&bg_color=1A1A2E&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF&border_radius=10)
+#### Code Activity & Performance
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=tokyonight&bg_color=1A1A2E&title_color=00D9FF&text_color=ffffff&border_color=00D9FF&border_radius=10)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 32px auto; max-width: 1000px;">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehafiaz&theme=tokyonight&background=1A1A2E&stroke=00D9FF&ring=00D9FF&fire=00D9FF&sideLabels=ffffff)
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border: 1px solid rgba(0, 217, 255, 0.2); border-radius: 12px; padding: 20px; text-align: center; backdrop-filter: blur(10px);">
+
+**📈 GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&theme=tokyonight&bg_color=0B0D0C00&title_color=00D9FF&icon_color=00D9FF&text_color=A6A6A6&border_color=00D9FF&border_radius=0&hide_border=true)
+
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border: 1px solid rgba(0, 217, 255, 0.2); border-radius: 12px; padding: 20px; text-align: center; backdrop-filter: blur(10px);">
+
+**🔥 Contribution Streak**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehafiaz&theme=tokyonight&background=0B0D0C00&stroke=00D9FF&ring=00D9FF&fire=00D9FF&sideLabels=A6A6A6&dates=A6A6A6&border_radius=8)
+
+</div>
+
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border: 1px solid rgba(0, 217, 255, 0.2); border-radius: 12px; padding: 24px; margin: 16px auto; max-width: 600px; backdrop-filter: blur(10px);">
+
+**💻 Language Proficiency**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=tokyonight&bg_color=0B0D0C00&title_color=00D9FF&text_color=A6A6A6&border_color=00D9FF&border_radius=0&hide_border=true)
+
+</div>
 
 </div>
 

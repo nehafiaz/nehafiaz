@@ -192,19 +192,19 @@ Minimal, premium site showcasing real shipped work with restrained aesthetic. No
 
 **📈 GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&theme=tokyonight&bg_color=1A1A2E&title_color=00D9FF&icon_color=00D9FF&text_color=E0E0E0&border_color=00D9FF&border_radius=10" width="100%" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&count_private=true&theme=dark&bg_color=1A1A2E&title_color=00D9FF&text_color=E0E0E0&icon_color=00D9FF&border_color=00D9FF&border_radius=10&cache_seconds=1800)
 
 <br/><br/>
 
 **🔥 Contribution Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehafiaz&theme=dark&background=1A1A2E&stroke=00D9FF&ring=00D9FF&fire=00D9FF&sideLabels=E0E0E0&dates=E0E0E0&border_radius=10" width="100%" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=nehafiaz&theme=dark&background=1A1A2E&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E0E0E0&dates=E0E0E0&border_radius=10)
 
 <br/><br/>
 
 **💻 Language Proficiency**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=tokyonight&bg_color=1A1A2E&title_color=00D9FF&text_color=E0E0E0&border_color=00D9FF&border_radius=10" width="100%" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&theme=dark&bg_color=1A1A2E&title_color=00D9FF&text_color=E0E0E0&border_color=00D9FF&border_radius=10&cache_seconds=1800)
 
 </div>
 

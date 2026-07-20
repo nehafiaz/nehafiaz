@@ -17,9 +17,9 @@
 <a href="mailto:nehafiaz12@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=gmail&logoColor=f7768e" alt="Email" />
 </a>
-<a href="https://github.com/nehafiaz">
+<!-- <a href="https://github.com/nehafiaz">
   <img src="https://img.shields.io/github/followers/nehafiaz?style=flat-square&logo=github&color=1a1b27&labelColor=1a1b27&logoColor=bb9af7&label=Follow" alt="GitHub" />
-</a>
+</a> -->
 
 </div>
 

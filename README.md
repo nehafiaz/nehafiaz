@@ -100,8 +100,12 @@ craft along the way.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&count_private=true&hide_border=true&title_color=6e7681&icon_color=6e7681&text_color=8b949e&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&hide_border=true&title_color=6e7681&text_color=8b949e&bg_color=0d1117&langs_count=6" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nehafiaz&theme=github_dark" alt="stats" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nehafiaz&theme=github_dark" alt="top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nehafiaz&theme=github_dark" alt="most committed language" />
 
 <br/>
 
@@ -111,9 +115,9 @@ craft along the way.
 
 <!--
   Snake contribution graph.
-  It only appears after you set up the workflow (see the setup notes
-  at the bottom of this README). Until then this image will be broken —
-  that's expected.
+  It only appears after you set up the workflow (.github/workflows/snake.yml)
+  and run it once from the Actions tab. Until then this image will be
+  broken — that's expected.
 -->
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/nehafiaz/nehafiaz/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />

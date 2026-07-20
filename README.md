@@ -1,10 +1,12 @@
 <div align="center">
 
-# Neha Fiaz
+# Hi, I'm Neha Fiaz &nbsp;👋
 
-**Software Engineer** &nbsp;·&nbsp; Learning **AI Engineering**
+### Software Engineer &nbsp;·&nbsp; Learning AI Engineering
 
-Building AI-powered web & mobile applications — and sharing the journey in public.
+<em>Building AI-powered web & mobile applications — and sharing the journey in public.</em>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/neha-fiaz">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />

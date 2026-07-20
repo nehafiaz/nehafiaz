@@ -1,11 +1,3 @@
-<!--
-  ─────────────────────────────────────────────
-  Replace every YOUR_USERNAME / YOUR_LINKEDIN /
-  YOUR_EMAIL / YOUR_PORTFOLIO placeholder with
-  your real values, then commit.
-  ─────────────────────────────────────────────
--->
-
 <div align="center">
 
 # Neha Fiaz
@@ -144,22 +136,3 @@ craft along the way.
 *"The best way to predict the future is to build it."*
 
 </div>
-
-<!--
-  ─────────────────────────────────────────────
-  SNAKE ANIMATION — SETUP (delete this comment
-  block once it's working)
-
-  1. This repo's name must EXACTLY match your
-     username (e.g. YOUR_USERNAME/YOUR_USERNAME).
-  2. Create the file:
-     .github/workflows/snake.yml
-     with the contents from the chat message.
-  3. Commit & push.
-  4. Go to the Actions tab -> run "Generate Snake"
-     once (Run workflow button). It also runs
-     automatically every day.
-  5. This creates an "output" branch holding the
-     snake SVG, which the image above then loads.
-  ─────────────────────────────────────────────
--->

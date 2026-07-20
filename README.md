@@ -1,281 +1,165 @@
 <!--
-  ╭─────────────────────────────────────────────╮
-  │  Replace every YOUR_USERNAME / YOUR_LINKEDIN │
-  │  YOUR_EMAIL / YOUR_PORTFOLIO placeholder      │
-  │  with your real values, then commit.          │
-  ╰─────────────────────────────────────────────╯
+  ─────────────────────────────────────────────
+  Replace every YOUR_USERNAME / YOUR_LINKEDIN /
+  YOUR_EMAIL / YOUR_PORTFOLIO placeholder with
+  your real values, then commit.
+  ─────────────────────────────────────────────
 -->
 
-<!-- ===================== HEADER ===================== -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Neha%20Fiaz&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Learning%20AI%20Engineering&descAlignY=60&descSize=18" alt="header" />
-</a>
-
 <div align="center">
 
-<!-- Animated typing subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+%26+mobile+apps;Learning+in+public%2C+one+project+at+a+time;LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+RAG+%E2%80%A2+Computer+Vision;From+Software+Engineering+%E2%86%92+AI+Engineering" alt="Typing SVG" />
-</a>
+# Neha Fiaz
 
-<!-- Profile views + Followers + Stars -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="views" />
+**Software Engineer** &nbsp;·&nbsp; Learning **AI Engineering**
 
-<br/>
+Building AI-powered web & mobile applications — and sharing the journey in public.
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6366F1&logo=github" alt="followers" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+<a href="https://www.linkedin.com/in/neha-fiaz">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:nehafiaz12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/nehafiaz">
+  <img src="https://img.shields.io/github/followers/nehafiaz?style=flat-square&logo=github&color=000000&labelColor=000000&label=Follow" alt="GitHub" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
+## About
 
-```yaml
-name: "Neha Fiaz"
-role: "Software Engineer → AI Engineering"
-mission: "Build intelligent apps that solve real-world problems"
-philosophy: "Learn by building. Ship in public."
-currently:
-  - Building AI-powered web & mobile applications
-  - Deep-diving into LLMs, Agents & RAG
-  - Sharing the journey openly
-open_to: "AI Engineering opportunities 🚀"
-```
+I'm a Software Engineer transitioning into AI Engineering. My focus is building intelligent
+applications that pair solid software fundamentals with modern AI to solve real problems.
 
-> 💡 I combine modern software engineering with Artificial Intelligence to create practical products — while strengthening my fundamentals along the way.
+I believe in learning by building — shipping practical projects while deepening my engineering
+craft along the way.
+
+- Currently exploring **LLMs, AI Agents, and Retrieval-Augmented Generation (RAG)**
+- Comfortable across the **full stack** — web and cross-platform mobile
+- Open to **AI Engineering** opportunities
 
 <br/>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-## 🎯 Current Focus
+## Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Languages**
 
-**🤖 AI Engineering**
-- Large Language Models (LLMs)
-- AI Agents & Orchestration
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Vector Databases
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+**AI / Machine Learning**
 
-**💻 Software Engineering**
-- Full-Stack Web Development
-- Cross-Platform Mobile Apps
-- Computer Vision
-- Clean, production-grade code
-- System design fundamentals
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-000000?style=flat-square)
 
-</td>
-</tr>
-</table>
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Plant Disease Detection](https://github.com/nehafiaz/plant-disease-detection)** | Deep-learning model that classifies plant diseases from leaf images | Python · PyTorch · Flask |
+| **[Invora360](https://github.com/nehafiaz/invora360)** | SaaS platform for mineral-water plants — inventory & operations | Next.js · TypeScript · Supabase |
+| **[Mobile App](https://github.com/nehafiaz/mobile-app)** | Production cross-platform app from a single codebase | React Native · Expo |
+| **AI Project** *(in progress)* | An LLM-powered application currently in development | LLMs · RAG · Agents |
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 
-#### 🧠 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nehafiaz&show_icons=true&count_private=true&hide_border=true&title_color=6e7681&icon_color=6e7681&text_color=8b949e&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehafiaz&layout=compact&hide_border=true&title_color=6e7681&text_color=8b949e&bg_color=0d1117&langs_count=6" alt="top langs" />
+
 <br/>
-<img src="https://img.shields.io/badge/LLM_APIs-6366F1?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-EC4899?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_DBs-10B981?style=flat-square&logoColor=white" />
 
-<br/><br/>
-
-#### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" />
-
-<br/><br/>
-
-#### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-
-<br/><br/>
-
-#### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,supabase,firebase,postgres,mongodb&theme=dark" />
-
-<br/><br/>
-
-#### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,vercel&theme=dark" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=nehafiaz&hide_border=true&background=0d1117&stroke=21262d&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideNums=8b949e&currStreakNum=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="streak" />
 
 </div>
 
-<br/>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 Plant Disease Detection
-Deep-learning model that classifies plant diseases from leaf images to help farmers act early.
-
-`Python` `PyTorch` `Computer Vision` `Flask`
-
-[**→ View Repo**](https://github.com/YOUR_USERNAME/plant-disease-detection)
-
-</td>
-<td width="50%" valign="top">
-
-### 💧 Invora360
-SaaS platform for mineral-water plants — inventory, distribution & operations management.
-
-`Next.js` `TypeScript` `Supabase` `Tailwind`
-
-[**→ View Repo**](https://github.com/YOUR_USERNAME/invora360)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Cross-Platform Mobile App
-A production-ready mobile app built for both iOS & Android from a single codebase.
-
-`React Native` `Expo` `TypeScript`
-
-[**→ View Repo**](https://github.com/YOUR_USERNAME/mobile-app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Project — *Coming Soon*
-An LLM-powered application currently in the works. Watch this space. 👀
-
-`LLMs` `RAG` `AI Agents`
-
-[**→ Follow along**](https://github.com/YOUR_USERNAME)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
-<br/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
-<!-- Contribution activity graph -->
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<br/>
-
-<!-- Snake contribution animation -->
 <!--
-  To enable the snake: add the workflow file at
-  .github/workflows/snake.yml (see repo README setup notes),
-  it auto-generates the snake SVG into the "output" branch.
+  Snake contribution graph.
+  It only appears after you set up the workflow (see the setup notes
+  at the bottom of this README). Until then this image will be broken —
+  that's expected.
 -->
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/nehafiaz/nehafiaz/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
 <br/>
 
-<!-- ===================== 2026 GOALS ===================== -->
-## 🎯 2026 Goals
+## 2026 Goals
 
-```mermaid
-graph LR
-    A[🚀 2026] --> B[Build 10+ AI apps]
-    A --> C[Master LLM Engineering]
-    A --> D[Ship production AI systems]
-    A --> E[Contribute to Open Source]
-    A --> F[Land an AI Engineering role]
-    A --> G[Share learnings publicly]
-    style A fill:#8B5CF6,stroke:#EC4899,color:#fff
-    style B fill:#1e293b,stroke:#6366F1,color:#fff
-    style C fill:#1e293b,stroke:#6366F1,color:#fff
-    style D fill:#1e293b,stroke:#6366F1,color:#fff
-    style E fill:#1e293b,stroke:#6366F1,color:#fff
-    style F fill:#1e293b,stroke:#6366F1,color:#fff
-    style G fill:#1e293b,stroke:#6366F1,color:#fff
-```
+- Build and ship 10+ AI applications
+- Reach production depth in LLM engineering
+- Contribute meaningfully to open source
+- Land an AI Engineering role
+- Keep sharing the learning journey publicly
 
 <br/>
 
-<!-- ===================== CONNECT ===================== -->
-## 🤝 Let's Connect
-
 <div align="center">
-
-I'm always open to collaboration, AI conversations, and new opportunities. Reach out!
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
-
-### 💡 Building AI-powered products, one project at a time.
 
 *"The best way to predict the future is to build it."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" alt="footer" />
-
 </div>
+
+<!--
+  ─────────────────────────────────────────────
+  SNAKE ANIMATION — SETUP (delete this comment
+  block once it's working)
+
+  1. This repo's name must EXACTLY match your
+     username (e.g. YOUR_USERNAME/YOUR_USERNAME).
+  2. Create the file:
+     .github/workflows/snake.yml
+     with the contents from the chat message.
+  3. Commit & push.
+  4. Go to the Actions tab -> run "Generate Snake"
+     once (Run workflow button). It also runs
+     automatically every day.
+  5. This creates an "output" branch holding the
+     snake SVG, which the image above then loads.
+  ─────────────────────────────────────────────
+-->

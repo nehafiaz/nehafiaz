@@ -1,77 +1,46 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Neha Fiaz Banner"/>
-
-# Hi, I'm Neha Fiaz 👋
+# Hi, I'm Neha Fiaz :wave:
 
 ### Software Engineer • Learning AI Engineering
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Software+Engineer+Learning+AI+Engineering;Next.js+%E2%80%A2+React+%E2%80%A2+React+Native+%E2%80%A2+Flutter;Learning+in+Public+%F0%9F%9A%80" />
-</p>
+Building AI-powered web & mobile applications while sharing my journey in public.
 
 <p>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-</a>
-
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# :male-technologist: About Me
 
-I'm **Neha Fiaz**, a Software Engineer currently **learning AI Engineering** and building intelligent applications that solve real-world problems.
+I'm a **Software Engineer** currently transitioning into **AI Engineering**.
 
-I enjoy combining software engineering with AI to create practical products for web and mobile platforms.
+My goal is to build intelligent applications that combine modern software engineering with Artificial Intelligence to solve real-world problems.
 
-Currently I'm focused on:
-
-- 🤖 Large Language Models (LLMs)
-- ⚡ AI Agents
-- 📚 Retrieval-Augmented Generation (RAG)
-- 👁 Computer Vision
-- 💻 Full-Stack Development
-- 📱 Cross-Platform Mobile Development
-
-> **Learning by building. Growing by sharing.**
+I believe in **learning by building**, which is why I'm focused on creating practical AI projects while strengthening my software engineering skills.
 
 ---
 
-# 🚀 Current Journey
+# :rocket: Current Focus
 
-```text
-Software Engineering
-        │
-        ▼
- Deep Learning
-        │
-        ▼
- LLM Engineering
-        │
-        ▼
- AI Agents
-        │
-        ▼
- Production AI Systems
-```
+- :robot_face: Learning AI Engineering
+- :brain: Large Language Models (LLMs)
+- :zap: AI Agents
+- :books: Retrieval-Augmented Generation (RAG)
+- :mag: Computer Vision
+- :globe_with_meridians: Full Stack Development
+- :iphone: Cross-Platform Mobile Apps
 
 ---
 
@@ -80,14 +49,12 @@ Software Engineering
 ## AI & Machine Learning
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-**Currently Learning**
+Currently Learning
 
-- Large Language Models
+- LLM APIs
 - AI Agents
 - RAG
 - Prompt Engineering
@@ -98,9 +65,7 @@ Software Engineering
 ## Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
 </p>
 
 ---
@@ -108,21 +73,17 @@ Software Engineering
 ## Mobile
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
 React Native • Expo
-
-</p>
 
 ---
 
 ## Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase" />
 </p>
 
 ---
@@ -130,26 +91,24 @@ React Native • Expo
 ## Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# :star2: Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🤖 AI Projects | AI-powered applications I'm building while learning AI Engineering |
-| 🌱 Plant Disease Detection | Deep Learning project for plant disease classification |
-| 💧 Invora360 | SaaS platform for mineral water plant management |
-| 📱 React Native App | Cross-platform mobile application |
-| 🌐 Portfolio Website | Personal portfolio built with Next.js |
+|---------|-------------|
+| :robot_face: AI Project | Coming Soon |
+| :seedling: Plant Disease Detection | Deep Learning model for plant disease classification |
+| :droplet: Invora360 | SaaS platform for mineral water plants |
+| :iphone: React Native App | Cross-platform mobile application |
+| :globe_with_meridians: Portfolio | Personal portfolio built with Next.js |
 
 ---
 
-# 📈 GitHub Analytics
+# :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
 
@@ -167,50 +126,18 @@ React Native • Expo
 
 ---
 
-# 📊 Contribution Graph
+# :books: 2026 Goals
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
+- Build 10+ AI applications
+- Master LLM Engineering
+- Build Production AI Systems
+- Contribute to Open Source
+- Land an AI Engineering role
+- Share my learning journey publicly
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Build production-ready AI applications
-- ⏳ Master LLM Engineering
-- ⏳ Learn AI Agents
-- ⏳ Contribute to Open Source
-- ⏳ Publish technical AI content
-- ⏳ Land an AI Engineering role
-
----
-
-# 📚 Currently Learning
-
-- Prompt Engineering
-- LLM APIs
-- RAG
-- AI Agents
-- MCP
-- FastAPI
-- Docker
-
----
-
-# 🤝 Let's Connect
+# :handshake: Let's Connect
 
 <p align="center">
 
@@ -232,10 +159,8 @@ React Native • Expo
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### :bulb: Building AI-powered products, one project at a time.
 
-*"Building AI-powered products, one project at a time."*
-
-⭐ If you like my work, consider following my journey!
+*"The best way to predict the future is to build it."*
 
 </div>

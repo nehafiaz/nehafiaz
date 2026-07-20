@@ -17,7 +17,7 @@ Building AI-powered web & mobile applications — and sharing the journey in pub
 <a href="https://www.linkedin.com/in/neha-fiaz">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://neha-portfolio-coral.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:nehafiaz12@gmail.com">

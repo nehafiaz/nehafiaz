@@ -122,9 +122,9 @@ craft along the way.
   Tokyo Night colors from the chat so the snake matches. Until it runs,
   this image will be broken — that's expected.
 -->
-<!-- <div align="center">
+<div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/nehafiaz/nehafiaz/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div> -->
+</div> 
 
 <br/>
 

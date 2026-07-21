@@ -100,7 +100,7 @@ craft along the way.
 
 ## GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nehafiaz&theme=tokyonight" alt="stats" />
 
@@ -108,6 +108,22 @@ craft along the way.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nehafiaz&theme=tokyonight" alt="top languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nehafiaz&theme=tokyonight" alt="most committed language" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=nehafiaz&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div> -->
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nehafiaz/nehafiaz/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/nehafiaz/nehafiaz/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="top languages" />
+<img src="https://raw.githubusercontent.com/nehafiaz/nehafiaz/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most committed language" />
 
 <br/>
 

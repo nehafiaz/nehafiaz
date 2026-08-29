@@ -27,15 +27,14 @@
 
 ## About
 
-I'm a Software Engineer transitioning into AI Engineering. My focus is building intelligent
-applications that pair solid software fundamentals with modern AI to solve real problems.
+I'm a Full-Stack Engineer building SaaS & AI web apps with Next.js, React Native, and Supabase.
 
-I believe in learning by building — shipping practical projects while deepening my engineering
-craft along the way.
+Turning bold ideas into products that ship — pairing solid software fundamentals with modern AI to solve real problems, and learning by building along the way.
 
-- Currently exploring **LLMs, AI Agents, and Retrieval-Augmented Generation (RAG)**
-- Comfortable across the **full stack** — web and cross-platform mobile
-- Open to **AI Engineering** opportunities
+Shipped Invora360, a SaaS platform for water plants (inventory & operations)
+Full-stack across web (Next.js) and cross-platform mobile (React Native)
+Going deep on LLMs, AI Agents, and RAG
+Open to full-stack & AI Engineering roles
 
 <br/>
 

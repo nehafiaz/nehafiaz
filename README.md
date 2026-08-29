@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/neha-fiaz">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
 </a>
-<a href="https://neha-portfolio-coral.vercel.app">
+<a href="https://neha-fiaz.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=vercel&logoColor=c0caf5" alt="Portfolio" />
 </a>
 <a href="mailto:nehafiaz12@gmail.com">

@@ -2,9 +2,9 @@
 
 # Hi, I'm Neha Fiaz &nbsp;👋
 
-### Software Engineer &nbsp;·&nbsp; Learning AI Engineering
+### Full-Stack Engineer · SaaS & AI Web Apps
 
-<em>Building AI-powered web & mobile applications — and sharing the journey in public.</em>
+<em>Turning bold ideas into SaaS & AI that ships building in public.</em>
 
 <br/>
 
